@@ -17,6 +17,7 @@
   },
   "projects": {
     "app": { "tags": [] },
-    "app-e2e": { "tags": [], "implicitDependencies": ["app"] }
+    "app-e2e": { "tags": [], "implicitDependencies": ["app"] },
+    "api": { "tags": [] }
   }
 }
